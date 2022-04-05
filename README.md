@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Github User Search App by ReactJs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Easily Seacrh user by entering name. Also get the user github link.
+- Clear and Simple code.
+- Fetch Data From Github API https://api.github.com/
+ 
 
 ## Available Scripts
 
